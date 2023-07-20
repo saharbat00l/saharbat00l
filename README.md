@@ -33,6 +33,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seharbat00l&show_icons=true&locale=en&layout=compact" alt="seharbat00l" /></p>
-![seharbat00l's Stats](https://github-readme-stats.vercel.app/api?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+(https://github-readme-stats.vercel.app/apiusername=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 
