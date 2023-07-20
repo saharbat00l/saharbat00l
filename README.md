@@ -30,11 +30,9 @@
   <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="seharbat00l" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seharbat00l&theme=highcontrast&hide_border=true" alt="seharbat00l" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="seharbat00l" /></p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=seharbat00l&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="seharbat00l" /></p>
 
-<p><img align="center" src="https://visitcount.itsvg.in/api/test?icon=0&color=12" alt="seharbat00l" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="seharbat00l" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seharbat00l&theme=highcontrast&hide_border=true" alt="seharbat00l" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="seharbat00l" /></p>
 
