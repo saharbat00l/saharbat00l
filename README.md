@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=seharbat00l&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="seharbat00l" width = "100%"/></p>
 
-<p><img align="center" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="seharbat00l" /></p> <p><img align="center" width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=seharbat00l&theme=highcontrast&hide_border=true" alt="seharbat00l" /></p> <p><img align="center" width = "100%" src="https://github-readme-stats.vercel.app/api?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="seharbat00l" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="seharbat00l" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seharbat00l&theme=highcontrast&hide_border=true" alt="seharbat00l" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="seharbat00l" /></p>
 
