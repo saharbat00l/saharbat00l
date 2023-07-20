@@ -30,7 +30,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p align="center" width="210px" ><img align="center" src="https://github-profile-trophy.vercel.app/?username=seharbat00l&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="seharbat00l"/></p>
+<p align="center" ><img align="center" width="210px" src="https://github-profile-trophy.vercel.app/?username=seharbat00l&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="seharbat00l"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="seharbat00l" /></p> <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seharbat00l&theme=highcontrast&hide_border=true" alt="seharbat00l" /></p> <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seharbat00l&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="seharbat00l" /></p>
 
