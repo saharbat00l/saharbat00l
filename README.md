@@ -7,11 +7,11 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@seharbat00l](https://medium.com/@seharbat00l)
 
-- 💬 In past, I've worked with **C++, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (basics)**
+- 💬 In the past, I've worked with **C++, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (basics)**
 
 - 📫 How to reach me **bsehar912@gmail.com**
 
-- ⚡ Fun fact **I think I am an enthusiastic learner. I can adapt better practices real fast. I love thriving.**
+- ⚡ **I think I am an enthusiastic learner. I can adapt better practices really fast. I love thriving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
