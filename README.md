@@ -1,5 +1,5 @@
 <h1 align="center">Hola, I'm Sehar Batool.🌻</h1>
-<h3 align="center">Software eng. bachelors student & Self-taught mobile app developer.<br> I mainly work with Android App Development. Being a self-learner, I've always been keen to learn. My love for coding grew up with me after school. C++ was my first programming language which lead to design tools and web dev. Skills other than App Dev are the ones I learned over past few years. During my 12th Grade, I used to do freelance projects using design & web development skills.</h3>
+<h3 align="center">Student & Self-taught mobile app developer.<br> I mainly work with Android App Development. Being a self-learner, I've always been keen to learn. My love for coding grew up with me after school. C++ was my first programming language which lead to design tools and web dev. Skills other than App Dev are the ones I learned over past few years. During my 12th Grade, I used to do freelance projects using design & web development skills.</h3>
 
 - 🔭 I'm mainly a **Mobile App Developer.**
 
