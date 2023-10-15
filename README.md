@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **Kotlin & Jetpack Compose Apps using multiple patterns & architectures.**
 
-- 💬 I've also worked with **C++, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)**
+- 💬 I've also worked with **C++, Laravel, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)**
 
 - 📝 Sometimes I write articles on [https://medium.com/@seharbat00l](https://medium.com/@seharbat00l)
 
