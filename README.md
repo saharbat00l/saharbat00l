@@ -1,5 +1,5 @@
 <a href="">
- <img src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 </a>
 <h1 align="center">Hola, I'm Sehar Batool.🌻</h1>
 <h3 align="center">Student | Self-taught Developer 🚀 | Laravel | Kotlin | Mobile Apps | Backend | AWS | Tech enthusiast</h3>
