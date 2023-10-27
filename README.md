@@ -66,6 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-
+[![An image of @seharbat00l's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seharbat00l)](https://holopin.io/@seharbat00l)
 
 ###
