@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🔭 I'm a software developer who believes in diverse learning.<br><br>🌱 I’m currently working with backend development & android apps using Laravel, Kotlin & Jetpack Compose.<br><br>💬 I've also worked with C++, ROR, PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
+<p align="center">🔭 I'm a software developer who believes in diverse learning.<br><br>🌱 I’m currently working with backend development & android apps using Laravel,FilamentPHP, Kotlin & Jetpack Compose.<br><br>💬 I've also worked with C++, ROR, PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
 
 ###
 
