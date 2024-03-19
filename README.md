@@ -1,12 +1,12 @@
-<h2 align="center">I am Sehar Batool<br>Student | Self-taught Developer 🚀 | Kotlin | Laravel | Mobile Apps | Backend | AWS | Tech enthusiast</h2>
+<h2 align="left">I am Sehar Batool<br>Student | Self-taught Developer 🚀 | Kotlin | Laravel | Mobile Apps | Backend | AWS | Tech enthusiast</h2>
 
 ###
 
-<p align="center">🔭 I'm a software developer who believes in diverse learning.<br><br>🌱 I’m currently working with backend development & android apps using Laravel,FilamentPHP, Kotlin & Jetpack Compose.<br><br>💬 I've also worked with C++, ROR, PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
+<p align="left">🔭 I'm a software developer who believes in diverse learning.<br><br>🌱 I’m currently working with backend development & android apps using Laravel,FilamentPHP, Kotlin & Jetpack Compose.<br><br>💬 I've also worked with C++, ROR, PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="bsehar912@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
