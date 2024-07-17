@@ -1,4 +1,4 @@
-<h2 align="left">I am Sehar Batool<br>Student | Self-taught Developer 🚀 | Kotlin | Laravel | Mobile Apps | Backend | AWS | Tech enthusiast</h2>
+<h2 align="left">I am Sahar Batool<br>Student | Self-taught Developer 🚀 | Kotlin | Laravel | Mobile Apps | Backend | AWS | Tech enthusiast</h2>
 
 ###
 
