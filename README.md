@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I'm a Mobile Application Developer who believes in diverse learning.<br><br>🌱 Native Android App Developer📱| Android | Kotlin | Retrofit | Firebase | Room DB | Google APIs | In-App Purchases | ML Kit | Dagger Hilt | Git | Linux | Vagrant | VM | AWS | Member at Women Tech Makers 👩🏻‍💻🤖 <br><br>💬 I've also worked with C++, ROR, PHP, Laravel, Filament PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
+<p align="left">🔭 I'm a Mobile Application Developer who believes in diverse learning.<br><br>🌱 Native Android App Developer📱| Android | Kotlin | Retrofit | Firebase | Room DB | Google APIs | Google AdMobs | In-App Purchases | ML Kit | Dagger Hilt | Git | Linux | Vagrant | VM | AWS | Member at Women Tech Makers 👩🏻‍💻🤖 <br><br>💬 I've also worked with C++, ROR, PHP, Laravel, Filament PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
 
 ###
 
