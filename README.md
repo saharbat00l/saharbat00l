@@ -1,22 +1,52 @@
-<h2 align="left">Self-taught Developer | Kotlin | Android | Mobile Apps | Cloud | DevOps | Tech enthusiast</h2>
+# 👋 Hi, I'm Sahar Batool
 
-###
+I'm a **Mobile Application Developer** who crafts clean, modern, and scalable Android apps — blending the power of **Kotlin**, **Jetpack Compose**, and **Firebase** with automation and cloud tools like **Jenkins**, **Docker**, and **AWS**.
 
-<p align="left">🔭 I'm a Mobile Application Developer who believes in diverse learning.<br><br>🌱 Native Android App Developer📱| Android | Kotlin | Retrofit | Firebase | Room DB | Google APIs | Google AdMobs | In-App Purchases | ML Kit | Dagger Hilt | Git | Linux | Vagrant | VM | AWS | Member at Women Tech Makers 👩🏻‍💻🤖 <br><br>💬 I've also worked with C++, ROR, PHP, Laravel, Filament PHP, HTML, CSS, BootStrap, Tailwind, WordPress, Adobe Ai & Ps, AWS (EC2, S3, VPC, AutoScaling, IAM)</p>
+I thrive at the intersection of mobile development and DevOps. Whether it's building user-centric interfaces or automating CI/CD pipelines, I focus on delivering smooth user experiences and robust backend integrations.
 
-###
+---
 
-<div align="left">
-  <a href="saharbatool1229@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sahar-batool-52551521a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@saharbat00l" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
+### ⚡ What I Do
+- 🚀 Build Android apps with modern architecture & UI (Jetpack Compose, MVVM)
+- 🔌 Integrate real-time services using Firebase, REST APIs, and Google APIs
+- 🧠 Enhance app functionality with ML Kit, NFC, in-app purchases, and AdMob
+- 🛠️ Automate build & release cycles using GitHub Actions and Firebase App Distribution
+- ☁️ Optimize cloud-based infrastructure using AWS (EC2, S3, RDS), Docker & Jenkins
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`Kotlin` • `Jetpack Compose` • `XML` • `Python` • `C++` • `Bash`
+
+**Mobile Tools & APIs**  
+`Firebase (Realtime DB, Auth, Storage)` • `Retrofit` • `Room` • `Google APIs` • `ML Kit` • `In-App Billing` • `AdMob` • `Play Console`
+
+**DevOps & CI/CD**  
+`Jenkins` • `GitHub Actions` • `Docker` • `SonarQube` • `Nexus` • `Vagrant`
+
+**Cloud Platforms**  
+`AWS (EC2, S3, RDS, CloudWatch, Beanstalk, Route 53)` • `Firebase` • `Amazon MQ`
+
+**Others**  
+`Linux` • `Git` • `Bitbucket` • `MySQL` • `JSON` • `YAML`
+
+---
+
+### 💡 Interests
+- 🌱 Learning deeper cloud-native patterns and scalable app architectures
+- 🤖 Exploring AI/ML APIs in mobile development
+- 💬 Speaking about automation in mobile pipelines
+- 🔄 Bridging the gap between mobile and cloud through CI/CD best practices
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: saharbatool1229@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/sahar-batool/)
+
+Let's build something impactful together. 🙌
 
 ###
 
