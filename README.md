@@ -1,4 +1,7 @@
-# 👋Sahar Here — From Code to Cloud
+# 👋Sahar Here — From Code to Cloud <p align="center">
+  <img src="https://img.shields.io/badge/I%20Build%20Apps-That%20Deploy%20Themselves-%237F52FF?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
 
 I'm a **Mobile Application Developer** who crafts clean, modern, and scalable Android apps — blending the power of **Kotlin**, **Jetpack Compose**, and **Firebase** with automation and cloud tools like **Jenkins**, **Docker**, and **AWS**.
 
