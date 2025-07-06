@@ -61,8 +61,8 @@ I thrive at the intersection of mobile development and DevOps. Whether it's buil
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: saharbatool1229@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/sahar-batool/)
+- 📧 saharbatool1229@gmail.com  
+- 💼 [https://linkedin.com/in/sahar-batool/](https://linkedin.com/in/sahar-batool/)
 
 Let's build something impactful together. 🙌
 
