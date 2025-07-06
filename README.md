@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sahar Batool
+# 👋Sahar Here — From Code to Cloud, I Build Mobile Apps the Smart Way
 
 I'm a **Mobile Application Developer** who crafts clean, modern, and scalable Android apps — blending the power of **Kotlin**, **Jetpack Compose**, and **Firebase** with automation and cloud tools like **Jenkins**, **Docker**, and **AWS**.
 
