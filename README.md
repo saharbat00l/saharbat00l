@@ -66,7 +66,6 @@ I thrive at the intersection of mobile development and DevOps. Whether it's buil
 
 ### 📫 Connect With Me
 - 📧 saharbatool1229@gmail.com  
-- 💼 [https://linkedin.com/in/sahar-batool/](https://linkedin.com/in/sahar-batool/)
 
 Let's build something impactful together. 🙌
 
